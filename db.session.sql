@@ -1,0 +1,3 @@
+USE HomeRentalDB;
+SHOW TABLES;
+SELECT * FROM CanHoBietThu;
